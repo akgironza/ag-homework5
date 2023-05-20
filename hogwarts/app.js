@@ -36,6 +36,17 @@ $($container).append($h2).append($h3).append($h4_1).append($h4_2)
 // console.log($h3)
 // console.log($h4)
 
+// YEAR 3
 
+const $ul = $("<ul>").attr('storage', 'trunk')
+$($ul).append($("<li>").text("butter beer"))
+$($ul).append($("<li>").text("invisibility cloak").attr('class', 'secret'))
+$($ul).append($("<li>").text("magic map").attr('class', 'secret'))
+$($ul).append($("<li>").text("time turner").attr('class', 'secret'))
+$($ul).append($("<li>").text("leash").attr('class', 'cat'))
+$($ul).append($("<li>").text("Bertie Bott's Every Flavor Beans"))
 
+$($container).append($ul)
+
+console.log($ul)
 
