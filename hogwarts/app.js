@@ -63,3 +63,7 @@ $h4_3.css("color", "indigo")
 // Send your pet on a spy mission (remove your pet from the DOM, put it somewhere else in your HTML). Make sure your pet's leash stays in your trunk (list item with the same class as your pet inside unordered list)
 // Have your pet come back (remove your pet from the DOM, put it back in its original location)
 // will come back to this if I have time, sounds funny
+
+// YEAR 6
+
+// YEAR 7
